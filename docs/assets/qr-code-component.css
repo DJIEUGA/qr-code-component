@@ -1,6 +1,6 @@
 @font-face {
     font-family: myOutfit;
-    src: url('docs\assets\Outfit fonts\static\Outfit-Light.ttf');
+    src: url("docs\assets\Outfit-fonts\static\Outfit-Light.ttf");
 }
 
 /** Global styles the page */
