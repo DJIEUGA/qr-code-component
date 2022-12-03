@@ -1,0 +1,15 @@
+@font-face {
+    font-family: myOutfit;
+    src: url('../assets/Outfit fonts/static/Outfit-Light.ttf');
+}
+
+/** Global styles the page */
+* {
+    font-family: myOutfit;
+}
+
+/* Global style end */
+
+h3 {
+    font-weight: 700;
+}
