@@ -1,11 +1,11 @@
 @font-face {
-    font-family: myOutfit;
-    src: url("docs\assets\Outfit-fonts\static\Outfit-Light.ttf");
+    font-family: Outfit;
+    src: url('../assets/fonts/static/Outfit-Light.ttf');
 }
 
 /** Global styles the page */
 * {
-    font-family: myOutfit;
+    font-family: Outfit;
 }
 
 /* Global style end */
